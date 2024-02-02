@@ -1,0 +1,310 @@
+html[dir=rtl] .logo-connexion {
+  margin: 1% auto 1% auto;
+}
+html[dir=rtl] .logo {
+  margin: auto 0px auto auto;
+  float: right;
+}
+html[dir=rtl] .header2 {
+  margin: 5px 0px 5px 0px;
+  display: left;
+}
+html[dir=rtl] .img {
+  margin: 11px 1% 2px 90%;
+}
+html[dir=rtl] .search {
+  margin: auto auto auto 0%;
+  float: left;
+}
+
+html[dir=rtl] .button {
+  margin: -53.48px 717Px 1px 1px;
+}
+
+html[dir=rtl] .navp {
+  margin: 1px 0px auto 2px;
+}
+
+html[dir=rtl] .section2 {
+  margin: 3% auto 3% auto;
+}
+
+html[dir=rtl] .footer1 {
+  margin: 1em 0px 0px 0px;
+}
+
+html[dir=rtl] .section {
+  float: right;
+  margin: 1% 1% 1px 1px;
+}
+
+html[dir=rtl] .section3 {
+  float: right;
+  margin: 1% 1% 1px 1px;
+}
+
+html[dir=rtl] .grand {
+  margin: 0px 0px 5px 0px;
+}
+
+html[dir=rtl] .grand2 {
+  margin: 0px 0px 2px 0px;
+}
+
+html[dir=rtl] #container ul {
+  margin: 3px 3px auto 3px;
+  padding-right: 2px;
+}
+
+html[dir=rtl] #container ul li {
+  padding-right: 8px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+html[dir=rtl] #container ul li i {
+  float: left;
+  margin-left: 3px;
+}
+
+html[dir=rtl] #container1 ul {
+  margin-right: 2px;
+  padding-right: 2px;
+}
+
+html[dir=rtl] #container1 ul li {
+  position: left;
+  padding-right: 8px;
+  margin-right: auto;
+  margin-left: 20px;
+}
+
+html[dir=rtl] #container1 ul li i {
+  margin-left: 3px;
+}
+
+html[dir=rtl] .cat {
+  margin: 8px auto 2px auto;
+}
+
+html[dir=rtl] .cat2 {
+  margin: 8px 4px 2px auto;
+}
+
+html[dir=rtl] #cat i {
+  float: left;
+  margin-left: 8px;
+}
+
+html[dir=rtl] .filternav {
+  margin: 5px auto auto auto;
+}
+
+html[dir=rtl] .hist2 {
+  margin: 0px 20px 0px 20px;
+  padding-right: 10px;
+}
+
+html[dir=rtl] .hist2>button {
+  margin: 5px auto auto 20px;
+}
+
+html[dir=rtl] .hist {
+  margin: 0px 20px 0px 20px;
+  padding: 1px auto auto 10px;
+}
+
+html[dir=rtl] .filter {
+  margin: 0px auto 0px auto;
+}
+
+html[dir=rtl] .filter>input,
+.filter>select,
+.filter>div {
+  margin-top: 0px;
+  padding: 0px 2px 0px 0px;
+}
+
+html[dir=rtl] .filter>button {
+  padding: 0px 2px 0px 0px;
+}
+
+html[dir=rtl] .store {
+  margin: auto auto auto 5px;
+}
+
+html[dir=rtl] .store>div {
+  margin: 1px auto 3px auto;
+}
+
+html[dir=rtl] .storeimg {
+  margin: 10px auto 1px auto;
+}
+
+html[dir=rtl] .storeimg>img {
+  margin: 0px 0px 3px 0px;
+}
+
+html[dir=rtl] .temp {
+  margin: 0px auto auto auto;
+}
+
+html[dir=rtl] .row {
+  margin: 1% auto 3% auto;
+}
+
+html[dir=rtl] .pub {
+  margin: 10px 30px 5px 50px;
+  right: 0px;
+}
+
+html[dir=rtl] .pubimg {
+  margin: 10px 5px 10px 30px;
+  right: 5px;
+}
+
+html[dir=rtl] .pimg {
+  margin: 1% 0% 1% 0%;
+}
+
+html[dir=rtl] .pimgd {
+  margin: -13% 0% 0% 0%;
+}
+
+html[dir=rtl] .pimgp {
+  margin: 2px 1% auto auto;
+}
+
+html[dir=rtl] .option1 {
+  margin: 1% 1% 1% 1%;
+}
+
+html[dir=rtl] .option2 {
+  margin: 1% 0% 1% 1%;
+}
+
+html[dir=rtl] .compte {
+  margin: auto auto auto 0px;
+}
+
+html[dir=rtl] .a {
+  float: right;
+}
+
+html[dir=rtl] .filter_bar {
+  margin: 2px 1px 2px 3px;
+}
+
+html[dir=rtl] .filterrs {
+  margin-left: 3px;
+}
+
+html[dir=rtl] .detailanncphoto {
+  margin-left: 3px;
+}
+
+html[dir=rtl] .filtergrid {
+  margin: 3% auto auto auto;
+}
+
+html[dir=rtl] .detailgrid {
+  margin: 3% 3px auto auto;
+}
+
+html[dir=rtl] .storeprdimg {
+  margin: 5px 5% 2px 3px;
+}
+
+html[dir=rtl] .filterdt {
+  margin-right: 2%;
+}
+
+html[dir=rtl] .grid {
+  margin-left: 3px;
+}
+
+html[dir=rtl] .grid2 {
+  margin-left: 3px;
+}
+
+html[dir=rtl] .connexion {
+  margin: 1% 1% auto auto;
+}
+
+html[dir=rtl] .login {
+  margin: 0% 0% auto auto;
+  padding-right: 1%;
+}
+
+html[dir=rtl] .login1 {
+  margin: 0% 0% auto auto;
+  padding-right: 1%;
+}
+
+/* this part is for cards */
+
+html[dir=rtl] .login_search {
+  margin: 1% 1% auto auto;
+}
+
+
+html[dir=rtl] .Specifications {
+  margin-right: 1em;
+}
+
+
+/* end of the parts of cards */
+
+/* profil page */
+
+html[dir=rtl] .profil {
+  margin: 1% 1% auto auto;
+}
+
+html[dir=rtl] .welcome {
+  margin: 0px auto 0px auto;
+}
+
+html[dir=rtl] .phprofil {
+  margin: auto auto auto auto;
+}
+
+html[dir=rtl] .listcompte {
+  margin: auto auto auto auto;
+}
+
+html[dir=rtl] .listcompte div {
+  margin: 0px auto 0px auto;
+}
+
+html[dir=rtl] .ajoutphotos {
+  margin: 1% 1% auto auto;
+}
+
+html[dir=rtl] .pagi {
+  margin-inline-start: 50%;
+}
+
+@media only screen and (max-width:991px) {
+   html[dir=rtl] .hist2 {
+    margin: 0px 7px 0px 7px;
+    padding-right: 10px;
+  }
+  html[dir=rtl] .hist2>button {
+    margin: 5px auto auto 7px;
+  }
+  html[dir=rtl] .hist {
+    margin: auto 5px auto auto;
+  }
+ 
+  html[dir=rtl] .store {
+    margin: auto auto auto auto;
+  }
+
+  html[dir=rtl] .pagi {
+    margin-inline-start: 26%;
+  }
+   html[dir=rtl] .connexion {
+    margin: auto;
+  }
+}
