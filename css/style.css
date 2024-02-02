@@ -171,7 +171,7 @@ input[type=number]::-webkit-outer-spin-button {
     height: auto;
     margin-left: 2px;
     margin-right: 2px;
-    width: 4.5rem;
+    width: 6rem;
 }
 
 .number-input,
